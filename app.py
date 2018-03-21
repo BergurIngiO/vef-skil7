@@ -1,5 +1,4 @@
-from bottle import run, route, template, static_file, error, request, response, redirect
-import requests
+from bottle import run, route, template, request, response, redirect
 import os
 
 #Einfalt cookie sýnidæmi
